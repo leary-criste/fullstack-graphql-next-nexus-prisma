@@ -705,4 +705,4 @@ Now, we can use a single `npm run dev` command to launch Nexus, Next.js, and Gra
 
 I hope you have enjoyed this tutorial and have learned something useful! You can find the source code in [this GitHub repo](https://github.com/hexrcs/fullstack-graphql-next-nexus-prisma).
 
-Also, check out the [Awesome Prisma list](https://github.com/catalinmiron/awesome-prisma) for more tutorials and starter projects in the Prisma ecosystem!
+Also, check out the [Awesome Prisma list](https://github.com/catalinmiron/awesome-prisma) for more tutorials and starter projects in the Prisma ecosystem!
