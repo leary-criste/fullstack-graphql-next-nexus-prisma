@@ -7,4 +7,4 @@ export const AllUsersQuery = gql`
       name
     }
   }
-`;
+`;
